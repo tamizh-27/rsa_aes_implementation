@@ -1,3 +1,4 @@
+Description:
 RSA is an asymmetric algorithm and AES is a symmetric algorithm. A hybrid approach using both algorithms has been implemented.
 
 Process:
@@ -9,3 +10,4 @@ The decrypted AES key is then used to decrypt the message.
 
 Note:
 Generally, RSA private keys are stored locally. However, since this has been implemented using Python, local storage of the RSA private keys is not necessary.
+Run user2_code.py first then user1_code.py
